@@ -1,7 +1,7 @@
 # Simple Twitter Project
 
 ## 聲明_update2024.08
-- 本專案為ALPHA Camp 的 full stack web development program specialize course的結業門檻產品開發實作，採用前後端分離方式開發。
+- 本專案為ALPHA Camp 的 **full stack web development program specialize course產品實作（課程結業門檻）**，採用前後端分離方式開發。
 - **後端API隨課程結束已關閉，目前僅能瀏覽開發程式碼。**
 - [原始專案repo](https://github.com/mirageapache/simple_twitter_frontend)
 - [開發acceptance criteria list](https://docs.google.com/spreadsheets/d/1sJZCAMPeInURLSSBNqYx5XxCH0_ryFrYupM4pAoISp0/edit#gid=0)、[Demo測試紀錄](https://docs.google.com/spreadsheets/d/1sJZCAMPeInURLSSBNqYx5XxCH0_ryFrYupM4pAoISp0/edit?gid=861255137#gid=861255137)
